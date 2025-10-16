@@ -23,9 +23,9 @@ const SupervisionSummaryPage = () => {
         )}
         
         <div className="grid w-full gap-3">
-          {/* <CardCompo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nents> */}
+          {/* <CardCompo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qnents> */}
           <FindingsSummaryTable />
-          {/* </CardCompo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nents> */}
+          {/* </CardCompo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qnents> */}
 
           <FindingsRecommendationTable />
         </div>
