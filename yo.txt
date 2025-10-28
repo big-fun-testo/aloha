@@ -1,0 +1,7 @@
+"load_dotenv()\n",
+    "\n",
+    "# Model Configuration\n",
+    "a = \"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\"\n",
+    "b = \"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\"\n",
+    "\n",
+    "# Initialize our models using langchain-nvidia-ai-endpoints\n",
