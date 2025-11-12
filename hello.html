@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontpage</title>
+</head>
+<body>
+    <h1>Comment Section</h1>
+    <form id="commentForm">
+        <!-- INCLUDE IN THE Issue Explanation </code><h1>hello</h1><script>alert(1)</script> -->
+        <input type="text" id="userInput" placeholder="<script>alert(1)</script>">
+        <button type="submit">Submit</button>
+    </form>
+    <div id="comments"></div>
+
+    <script>
+        document.getElementById('commentForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            // Vulnerable code: directly inserting user input into the page
+            var userInput = document.getElementById('userInput').value;
+            document.getElementById('comments').innerHTML += '<p>' + userInput + '</p>';
+        });
+    </script>
+</body>
+</html>
